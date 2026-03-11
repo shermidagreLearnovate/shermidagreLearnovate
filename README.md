@@ -66,8 +66,8 @@ When I’m not coding, you’ll find me:
 
 ### 📫 Get in touch
 
-- Email: **shermidagre@gmail.com**  
-- GitHub: [@shermidagre](https://github.com/shermidagre)
+- Email: **samuel.gregores@learnovatecentre.org**  
+- GitHub: [@shermidagreLearnovate](https://github.com/shermidagreLearnovate)
 
 > 🇪🇸 *Programador español, Spanish developer*  
 > 💡 *“First, solve the problem. Then, write the code.” – John Johnson*  
